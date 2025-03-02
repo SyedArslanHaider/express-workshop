@@ -1,0 +1,16 @@
+{
+  "name": "express-workshop",
+  "version": "1.0.0",
+  "description": "This is the exercise that accompanies the first Node class. Based on the Node Girls Workshop https://github.com/node-girls/express-workshop",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "express-formidable": "^1.2.0"
+  }
+}
